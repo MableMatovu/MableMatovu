@@ -16,7 +16,7 @@
 - 😍I love music, good food 🍚 and climbing 🧗🏾‍♀️
 
   
-My bootcamp projects:
+My bootcamp projects:  
 [Climate-Energy Harmony](https://docs.google.com/presentation/d/1MqxO_U87q3yET5WBwxXoGbYLcEGOi6ekMoQdGNBE0qE/edit#slide=id.gd431007ba2_0_208 "My Project")
 
 <h3 align="left">Connect with me:</h3>
